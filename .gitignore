@@ -1,0 +1,8 @@
+# je veux ignorer le fichier ignore-this.txt
+ignore-th[ai][ts].txt
+
+file[1-4].txt
+
+ignore_all/*
+
+# modification

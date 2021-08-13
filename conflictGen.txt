@@ -1,7 +1,7 @@
-header
+prologue
 -------
 debut
 milieu
 fin
 -------
-footer
+epilogue
